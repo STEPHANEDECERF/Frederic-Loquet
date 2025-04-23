@@ -1,0 +1,31 @@
+body{
+background-color:rgb(39, 32, 32) ;
+
+
+
+}
+
+.navbar{
+    background-color:#a77f57a3 ;
+
+}
+
+footer{
+    background-color:#a77f57a3 ;
+}
+.navbar a{
+    color: white;
+}
+
+.logo {
+
+
+}
+
+@media(max-width: 500px){
+    .logo{
+         width: 30%;
+         height:25%;
+    }
+
+}
